@@ -8,6 +8,8 @@ This project sets up an ETL (Extract, Transform, Load) pipeline to collect news 
 - [Installation](#Installation)
 - [Conclusion](#Conclusion)
 
+
+
 # Architecture
 ![arch_diagram](./acrchtecture.PNG)
 The architecture of the project consists of the following components:
